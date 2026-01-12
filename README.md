@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=336699&center=true&vCenter=true&width=900&lines=Hi,+I'm+Rawad+Yared;MBA+%26+Big+Data+Student+at+IE;Ex-Manager+Consultant+%40+Management+Solutions+Experts;Marathon+Runner+%26+Efficiency+Hacker" alt="Typing SVG" />
+  <h1>Data & AI Enthusiast | Ex-Management Consultant</h1>
 </div>
 
 <div align="center">
