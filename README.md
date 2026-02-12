@@ -1,8 +1,6 @@
 <div align="center">
   <h1>Data & AI Enthusiast | Ex-Management Consultant</h1>
-</div>
 
-<div align="center">
   <a href="https://linkedin.com/in/rawadyared">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
@@ -17,19 +15,16 @@
 <br/>
 
 <div align="center">
-  <code>
-    <marquee direction="left" speed="60">
-      🚀 <b>Latest Updates:</b> Certified AWS Cloud Practitioner (2025)
-    </marquee>
-  </code>
+  <img src="https://img.shields.io/badge/Latest%20Update-Certified%20AWS%20Cloud%20Practitioner%20(2025)-0ea5e9?style=for-the-badge&logo=amazonaws&logoColor=white" />
 </div>
 
 <hr/>
 
 ### ⚡ The "Algorithm" Behind Me
+
 <table>
   <tr>
-    <td width="60%">
+    <td width="60%" valign="top">
       I am a <b>Dual Degree Candidate (MBA + MSc in Business Analytics)</b> at IE Business School with 4+ years of experience in Management Consulting. I specialize in bridging the gap between <b>Strategic Business Decisions</b> and <b>Technical Implementation</b>.
       <br/><br/>
       <ul>
@@ -39,10 +34,17 @@
         <li>🏃 <b>Offline:</b> 5x Half-Marathoner & Volleyball MVP</li>
       </ul>
     </td>
-    <td width="40%">
+
+    <td width="40%" valign="top">
       <div align="center">
         <b>My Tech Stack</b><br/><br/>
-        <img src="https://skillicons.dev/icons?i=python,mysql,aws,git,docker,kafka,bash,cpp,matlab,tableau,powerbi&perline=4" />
+
+        <!-- 12 icons, including MLflow -->
+        <img
+          src="https://skillicons.dev/icons?i=python,postgres,aws,azure,docker,githubactions,nifi,spark,mlflow,git,linux,bash&perline=4"
+          alt="tech stack"
+        />
+
       </div>
     </td>
   </tr>
@@ -51,14 +53,28 @@
 <br/>
 
 <h3 align="center">📊 Data Stream</h3>
+
+<!-- Responsive stats: wraps cleanly + no clipping -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rawad-yared&show_icons=true&theme=tokyonight&hide_border=true" height="160" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rawad-yared&layout=compact&theme=tokyonight&hide_border=true" height="160" alt="languages graph" />
+  <a href="https://github.com/rawad-yared">
+    <img
+      src="https://github-readme-stats.vercel.app/api?username=rawad-yared&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
+      height="165"
+      alt="stats graph"
+    />
+  </a>
+
+  <a href="https://github.com/rawad-yared">
+    <img
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=rawad-yared&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
+      height="165"
+      alt="languages graph"
+    />
+  </a>
 </div>
 
 <br/>
 
-<br/>
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0077B5&height=100&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0077B5&height=110&section=footer" width="100%"/>
 </div>
