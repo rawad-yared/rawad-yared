@@ -1,16 +1,16 @@
 <div align="center">
 
-  # Rawad Yared's Coding Projects 👋
+  # Hi there, I'm Rawad 👋
   
   ### Data & AI Enthusiast | Ex-Management Consultant
   
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
+  <a href="https://linkedin.com/in/rawadyared">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:YOUR_EMAIL@gmail.com">
+  <a href="mailto:rawadyared@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://github.com/YOUR_ACTUAL_USERNAME_HERE">
+  <a href="https://github.com/rawad-yared">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 
@@ -49,6 +49,6 @@ I am a **Dual Degree Candidate (MBA + MSc in Business Analytics)** at **IE Busin
 ### 📊 Data Stream
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rawad-yared&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rawad-yared&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="170" />
-</div>>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=rawad-yared&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rawad-yared&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="170" />
+</div>
