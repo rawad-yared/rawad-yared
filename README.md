@@ -49,10 +49,6 @@ I am a **Dual Degree Candidate (MBA + MSc in Business Analytics)** at **IE Busin
 ### 📊 Data Stream
 
 <div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=rawad-yared&show_icons=true&theme=tokyonight&hide_border=true" alt="Github Stats" height="160" />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rawad-yared&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="160" />
-  </a>
-</div>
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="170" />
+</div>>
