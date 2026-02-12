@@ -1,79 +1,68 @@
 <div align="center">
-  <h1>Data & AI Enthusiast | Ex-Management Consultant</h1>
 
-  <a href="https://linkedin.com/in/rawadyared">
+  # Hi there, I'm [Your Name] 👋
+  
+  ### Data & AI Enthusiast | Ex-Management Consultant
+  
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:rawad.yared@student.ie.edu">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="mailto:YOUR_EMAIL@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://github.com/rawad-yared">
+  <a href="https://github.com/YOUR_USERNAME">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 
-  <br/><br/>
+  <br />
 
-  <img src="https://img.shields.io/badge/Latest%20Update-Certified%20AWS%20Cloud%20Practitioner%20(2025)-0ea5e9?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Latest_Update-Certified_AWS_Cloud_Practitioner_(2025)-00C7B7?style=flat-square" alt="Latest Update" />
+
 </div>
 
-<hr/>
+<br />
 
-<h3>⚡ The "Algorithm" Behind Me</h3>
+---
 
-<table>
-  <tr>
-    <td width="60%" valign="top">
-      I am a <b>Dual Degree Candidate (MBA + MSc in Business Analytics)</b> at IE Business School with 4+ years of experience in Management Consulting. I specialize in bridging the gap between <b>Strategic Business Decisions</b> and <b>Technical Implementation</b>.
-      <br/><br/>
-      <ul>
-        <li>🔭 <b>Currently working on:</b> MLOps & Big Data Architecture</li>
-        <li>💼 <b>Background:</b> Managed $500k+ transformation projects in the GCC</li>
-        <li>🧠 <b>Core Skills:</b> Organizational Restructuring, Data pipelines, & Automation</li>
-        <li>🏃 <b>Offline:</b> 5x Half-Marathoner & Volleyball MVP</li>
-      </ul>
-    </td>
+### 🚀 About Me
 
-    <td width="40%" valign="top">
-      <div align="center">
-        <b>My Tech Stack</b><br/><br/>
+I am a **Dual Degree Candidate (MBA + MSc in Business Analytics)** at **IE Business School** with **4+ years of experience** in Management Consulting. I specialize in bridging the gap between **Strategic Business Decisions** and **Technical Implementation**.
 
-        <!-- SkillIcons (use stable icons here) -->
-        <img
-          src="https://skillicons.dev/icons?i=python,postgres,aws,azure,docker,githubactions,spark,git,linux,bash,kubernetes,terraform&perline=4"
-          alt="tech stack"
-        />
-        <br/><br/>
+- 🔭 **Currently working on:** MLOps & Big Data Architecture
+- 💼 **Background:** Managed **$500k+** transformation projects in the GCC
+- 🧠 **Core Skills:** Organizational Restructuring, Data Pipelines, & Automation
+- 🏃 **Offline:** 5x Half-Marathoner & Volleyball MVP
 
-        <!-- MLflow + NiFi (more reliable via SimpleIcons) -->
-        <img src="https://cdn.simpleicons.org/mlflow" height="48" alt="MLflow" />
-        &nbsp;&nbsp;
-        <img src="https://cdn.simpleicons.org/apachenifi" height="48" alt="Apache NiFi" />
-      </div>
-    </td>
-  </tr>
-</table>
+---
 
-<br/>
+### ⚡ The "Algorithm" Behind Me
 
 <div align="center">
-  <h3>📊 Data Stream</h3>
-
-  <!-- Add cache_seconds + a tiny v= parameter to reduce breakage -->
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=rawad-yared&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&cache_seconds=86400&v=1"
-    height="165"
-    alt="stats graph"
-  />
-
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=rawad-yared&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=86400&v=1"
-    height="165"
-    alt="languages graph"
-  />
+  <img src="https://skillicons.dev/icons?i=python,postgres,aws,azure,docker,githubactions,spark,git,linux,bash,kubernetes&theme=dark" alt="My Tech Stack" />
+  <br /><br />
+  <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apache_NiFi-72BFB8?style=for-the-badge&logo=apache-nifi&logoColor=white" />
 </div>
 
-<br/>
+---
+
+### 📊 Data Stream
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0077B5&height=110&section=footer" width="100%"/>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" alt="Github Stats" height="160" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="160" />
+  </a>
 </div>
+
+---
+
+### 🛠️ Pinned Projects
+
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| **[Project Name 1](Link_to_Repo)** | A brief description of what this project does and the business problem it solves. | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white) |
+| **[Project Name 2](Link_to_Repo)** | Description of your second big data or automation project. | ![Spark](https://img.shields.io/badge/-Spark-E25A1C?style=flat&logo=apache-spark&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white) |
+| **[Project Name 3](Link_to_Repo)** | Description of an analysis or restructuring tool you built. | ![Postgres](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white) |
