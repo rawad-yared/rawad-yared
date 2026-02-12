@@ -10,17 +10,15 @@
   <a href="https://github.com/rawad-yared">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-</div>
 
-<br/>
+  <br/><br/>
 
-<div align="center">
   <img src="https://img.shields.io/badge/Latest%20Update-Certified%20AWS%20Cloud%20Practitioner%20(2025)-0ea5e9?style=for-the-badge&logo=amazonaws&logoColor=white" />
 </div>
 
 <hr/>
 
-### ⚡ The "Algorithm" Behind Me
+<h3>⚡ The "Algorithm" Behind Me</h3>
 
 <table>
   <tr>
@@ -39,12 +37,17 @@
       <div align="center">
         <b>My Tech Stack</b><br/><br/>
 
-        <!-- 12 icons, including MLflow -->
+        <!-- SkillIcons (use stable icons here) -->
         <img
-          src="https://skillicons.dev/icons?i=python,postgres,aws,azure,docker,githubactions,nifi,spark,mlflow,git,linux,bash&perline=4"
+          src="https://skillicons.dev/icons?i=python,postgres,aws,azure,docker,githubactions,spark,git,linux,bash,kubernetes,terraform&perline=4"
           alt="tech stack"
         />
+        <br/><br/>
 
+        <!-- MLflow + NiFi (more reliable via SimpleIcons) -->
+        <img src="https://cdn.simpleicons.org/mlflow" height="48" alt="MLflow" />
+        &nbsp;&nbsp;
+        <img src="https://cdn.simpleicons.org/apachenifi" height="48" alt="Apache NiFi" />
       </div>
     </td>
   </tr>
@@ -52,25 +55,21 @@
 
 <br/>
 
-<h3 align="center">📊 Data Stream</h3>
-
-<!-- Responsive stats: wraps cleanly + no clipping -->
 <div align="center">
-  <a href="https://github.com/rawad-yared">
-    <img
-      src="https://github-readme-stats.vercel.app/api?username=rawad-yared&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
-      height="165"
-      alt="stats graph"
-    />
-  </a>
+  <h3>📊 Data Stream</h3>
 
-  <a href="https://github.com/rawad-yared">
-    <img
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=rawad-yared&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
-      height="165"
-      alt="languages graph"
-    />
-  </a>
+  <!-- Add cache_seconds + a tiny v= parameter to reduce breakage -->
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=rawad-yared&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&cache_seconds=86400&v=1"
+    height="165"
+    alt="stats graph"
+  />
+
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=rawad-yared&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=86400&v=1"
+    height="165"
+    alt="languages graph"
+  />
 </div>
 
 <br/>
