@@ -2,7 +2,7 @@
 
   # Hi there, I'm Rawad 👋
   
-  ### Data & AI Enthusiast | Ex-Management Consultant
+  ### Data & AI Enthusiast | Management Consultant
   
   <a href="https://linkedin.com/in/rawadyared">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -26,12 +26,12 @@
 
 ### 🚀 About Me
 
-I am a **Dual Degree Candidate (MBA + MSc in Business Analytics)** at **IE Business School** with **4+ years of experience** in Management Consulting. I specialize in bridging the gap between **Strategic Business Decisions** and **Technical Implementation**.
+I am a **Dual Degree Candidate (MBA + MSc in Business Analytics)** at **IE Business School** with **6+ years of experience** in Management Consulting. I specialize in bridging the gap between **Strategic Business Decisions** and **Technical Implementation**.
 
-- 🔭 **Currently working on:** MLOps & Big Data Architecture
+- 🔭 **Currently working on:** Integrating AI & Data Science into organisational consulting bringing value to organisational transformation
 - 💼 **Background:** Managed **$500k+** transformation projects in the GCC
-- 🧠 **Core Skills:** Organizational Restructuring, Data Pipelines, & Automation
-- 🏃 **Offline:** 5x Half-Marathoner & Volleyball MVP
+- 🧠 **Core Skills:** Organizational Restructuring, Strategic Workforce Planning, Data Pipelines, & Automation
+- 🏃 **Offline:** Marathon Running (2x Marathoner) & Puzzles
 
 ---
 
