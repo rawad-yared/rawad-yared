@@ -26,7 +26,7 @@
 
 ### 🚀 About Me
 
-I am a **Dual Degree Candidate (MBA + MSc in Business Analytics)** at **IE Business School** with **6+ years of experience** in Management Consulting. I specialize in bridging the gap between **Strategic Business Decisions** and **Technical Implementation**.
+Manager at MSE a Kearney Company. **Dual Degree Graduate (MBA + MSc in Business Analytics)** from **IE Business School class of April 2026** with **6+ years of experience** in Management Consulting. I specialize in bridging the gap between **Strategic Business Decisions** and **Technical Implementation**.
 
 - 🔭 **Currently working on:** Integrating AI & Data Science into organisational consulting bringing value to organisational transformation
 - 💼 **Background:** Managed **$500k+** transformation projects in the GCC
